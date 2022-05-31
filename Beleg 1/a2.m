@@ -34,5 +34,5 @@ bode(r_s, opts), grid;
 
 
 % Mit Knickfrequenzen
- asymp(r_s, 10e2, 10e6);
+% asymp(r_s, 10e2, 10e6);
 
