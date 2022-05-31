@@ -1,6 +1,6 @@
 % Angenommene Variablenwerte 
-w_lc = 1.1 * 10^4;
-w_esr = 5.15 * 10^4;
+w_lc = 1.1e4;
+w_esr = 5.15e4;
 
 % Feste Parameter
 K_mod = 20;
